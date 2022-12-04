@@ -129,7 +129,7 @@ mySend.addEventListener("click", function (){
     }
     switch (premises[lieuxRandom]){
         case "Campagne":
-            premises.splice(2, 1, "la campagnes");
+            premises.splice(2, 1, "la campagne");
             console.log(premises)
             break;
         case "Camps de gitan":
