@@ -19,3 +19,8 @@ Le but du projet est de créer un générateur d'histoire aléatoires via des ta
 
 Je créer une fonction qui créer un random sur chacun de mes tableaux, je saisie ma div sur lequel je veux afficher mon histoire puis lui appliquer ce que je désire :
 sois = maVariable.innerHTML = "Salut c'est moi" + info.value < valeur d'utilisateur. + 'Je suis accompagné de' + name[nameRandom].
+
+
+
+
+MAQUETTTE :[Group 1](https://user-images.githubusercontent.com/99490319/205487338-9ee6fcf3-97f7-49ef-a50b-c3f83917db0e.png)
